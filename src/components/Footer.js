@@ -2,7 +2,6 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import {
   AiFillGithub,
-  AiOutlineTwitter,
   AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
@@ -35,7 +34,7 @@ function Footer() {
             <li className="social-icons">
               <a
                 href="https://leetcode.com/u/praveensuthar3016/"
-               style={{ color: "white" }}
+                style={{ color: "white" }}
                 target="_blank"
                 rel="noopener noreferrer"
               >

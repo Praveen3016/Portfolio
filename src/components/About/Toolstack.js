@@ -4,9 +4,7 @@ import { ImGithub } from "react-icons/im";
 import {
   SiVisualstudiocode,
   SiPostman,
-  SiSlack,
   SiVercel,
-  SiMacos,
   SiIntellijidea,
 } from "react-icons/si";
 
