@@ -2,11 +2,11 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import leaf from "../../Assets/Projects/leaf.png";
-import emotion from "../../Assets/Projects/emotion.png";
-import editor from "../../Assets/Projects/codeEditor.png";
+// import leaf from "../../Assets/Projects/leaf.png";
+// import emotion from "../../Assets/Projects/emotion.png";
+// import editor from "../../Assets/Projects/codeEditor.png";
 import fas from "../../Assets/Projects/FAS.jfif";
-import suicide from "../../Assets/Projects/suicide.png";
+// import suicide from "../../Assets/Projects/suicide.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
 
 function Projects() {
@@ -28,8 +28,8 @@ function Projects() {
               title="FAS (Financial Accounting System)"
               description="Developed at Soft Tech Solutions, this software manages loans, tracks assets & liabilities, records expenses, and calculates profits, providing a complete financial management solution."
               isGithub={false}
-              // ghLink="https://github.com/soumyajit4419/Chatify"
-              // demoLink="https://chatify-49.web.app/"
+            // ghLink="https://github.com/soumyajit4419/Chatify"
+            // demoLink="https://chatify-49.web.app/"
             />
           </Col>
 
@@ -41,7 +41,7 @@ function Projects() {
               description="A blogging platform built with React, Node.js, Express, and MongoDB where users can write and share blogs. Others can read, like, and comment on posts. This was my first major project, and I really enjoyed building it from scratch."
               isGithub={true}
               ghLink="https://github.com/Praveen3016"
-              // demoLink="https://blogs.soumya-jit.tech/"
+            // demoLink="https://blogs.soumya-jit.tech/"
             />
           </Col>
 
